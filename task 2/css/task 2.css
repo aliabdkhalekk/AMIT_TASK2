@@ -1,0 +1,109 @@
+
+.latest {
+    height: auto;
+    padding: 70px 0 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.one{    background-image: url("../img/1\ \(3\).jpg");
+    height: 350px;
+    width: 234px;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
+}
+.two{    background-image: url("../img/1\ \(3\).jpg");
+    height: 350px;
+    width: 234px;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
+}
+.three {
+    background-image: url("../img/1\ \(3\).jpg");
+    height: 350px;
+    width: 234px;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+
+.description_one{
+    height: 200px;
+    width: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+}
+.description_two{
+    height: 200px;
+    width: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+}
+.description_three {
+    height: 200px;
+    width: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+}
+
+.text {
+    width: 100%;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    color: #d8b454;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;  
+
+}
+p {
+    display: block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    color: #d8b454;
+ 
+}
+
+h3{
+    font-family: 'Abel', sans-serif;
+    text-decoration: none;
+    color: #d8b454;
+
+}
+.link {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 10px 0 20px;
+}
+.service {
+    height: auto;
+    width: 350px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+a:hover {
+    color: #d8b454;
+
+}
